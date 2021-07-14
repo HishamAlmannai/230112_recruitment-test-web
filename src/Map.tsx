@@ -9,7 +9,7 @@ const GERMANY_BOUNDS: [[number, number], [number, number]] = [
 
 const ReactMapboxGl = _ReactMapboxGl({
   accessToken:
-    "pk.eyJ1IjoibS10dWFuLXAiLCJhIjoiY2tyMjFxMm84MjdwODJwbzFoajZlN3M3eiJ9.HSqO6xCixXdgmiBMa8wNEg"
+    "pk.eyJ1IjoiZWNsZXZlciIsImEiOiJja3IzM3B3b24yMHNsMnBueGNya3I4eXExIn0.qNBd6dRRZLTTxKSJ0PUazg"
 });
 
 const Map = ({
