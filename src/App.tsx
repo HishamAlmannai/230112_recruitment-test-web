@@ -1,10 +1,9 @@
-import "./styles.css";
-import Map from "./Map";
+import Map from "./Map"
 
 export default function App() {
   return (
     <div className="App">
       <Map />
     </div>
-  );
+  )
 }

@@ -1,8 +1,8 @@
 # Overview
-This is an recruitment test from eClever. 
+This is an recruitment test from eClever.
 (c) Copyright 2021 eClever, all rights reserved.
 
-# Task 
+# Task
 1. Create HTML-marker from following REST Endpoints:
 - https://restcountries.com/v3.1/capital/Berlin
 - https://restcountries.com/v3.1/capital/Paris
