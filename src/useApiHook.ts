@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 export type TApiResponse = {
   status: Number;
   statusText: String;
-  data: any;
+  data: Array<Object>;
   error: any;
   loading: Boolean;
 };
