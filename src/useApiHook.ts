@@ -13,7 +13,7 @@ export const useApiGet = (url: string): TApiResponse => {
   const [statusText, setStatusText] = useState<String>('');
   const [data, setData] = useState<any>();
   const [error, setError] = useState<any>();
-  const [loading, setLoading] = useState<boolean>(false);
+  const [loading, setLoading] = useState<boolean>(true);
 
   const getAPIData = async () => {
     setLoading(true);
